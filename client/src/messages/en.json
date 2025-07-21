@@ -1,0 +1,56 @@
+{
+  "Layout": {
+    "title": "Insurance Case Portal"
+  },
+  "CaseNotFound": {
+    "title": "Case Not Found",
+    "description": "We couldn't find a case with the provided ID. Please check the URL and try again."
+  },
+  "ServiceOptionScreen": {
+    "title": "Choose your service option",
+    "theftLost": "Theft/Lost",
+    "dropOff": "Drop-off",
+    "swap": "Swap",
+    "swapUnavailable": "This option is currently unavailable for your device model.",
+    "selectColor": "Select a color",
+    "proceedToPayment": "Proceed to Payment",
+    "caseDetails": "Your Case Details",
+    "caseNumber": "Case Number:",
+    "device": "Device:",
+    "serviceType": "Service Type:",
+    "recipient": "Recipient:",
+    "address": "Address:"
+  },
+  "PaymentScreen": {
+    "title": "Complete your payment",
+    "totalPrice": "Total Price: {price} SEK",
+    "payWith": "Pay with",
+    "bankCard": "Bank Card",
+    "swish": "Swish",
+    "cardNumber": "Card Number",
+    "expiryDate": "MM/YY",
+    "cvv": "CVV",
+    "phoneNumber": "Phone Number",
+    "pay": "Pay",
+    "swishPaymentFailed": "Swish payment failed. Please try another payment method.",
+    "backToOptions": "Select another service",
+    "caseDetails": "Your Case Details",
+    "caseNumber": "Case Number:",
+    "device": "Device:",
+    "serviceType": "Service Type:",
+    "recipient": "Recipient:",
+    "address": "Address:"
+  },
+  "FinalScreen": {
+    "title": "Thank You!",
+    "theftLostSuccess": "Theft-lost handling is completed successfully.",
+    "dropOffSuccess": "Drop-off handling is completed successfully.",
+    "swapSuccess": "Swap handling is completed successfully. The replacement unit will be sent to {address}."
+  },
+  "Error": {
+    "unexpectedError": "An unexpected error occurred. Please try again later."
+  },
+  "State": {
+    "loading": "Loading case data..."
+  }
+}
