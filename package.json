@@ -1,0 +1,11 @@
+{
+  "name": "insurance-flow-monorepo",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --parallel dev",
+    "build": "pnpm --filter \"./apps/*\" build"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
